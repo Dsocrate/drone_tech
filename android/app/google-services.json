@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72238023409",
+    "project_id": "dronetech-bd152",
+    "storage_bucket": "dronetech-bd152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72238023409:android:f21ac0e737698d53671f50",
+        "android_client_info": {
+          "package_name": "com.example.dronetechie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72238023409-mrb7ndqh8ua8ejtukuk5cijh48c9b2j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHnB9PygQLG3vSNw5hxgl15cQTeQa2GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72238023409-mrb7ndqh8ua8ejtukuk5cijh48c9b2j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
